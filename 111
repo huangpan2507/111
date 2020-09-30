@@ -1,0 +1,116 @@
+# Markdown
+
+## 二级标题
+
+### 三级标题
+
+#### 四级标题
+
+
+
+## 字体
+
+**Hello. wold**
+
+*Hello. wolrd*
+
+***Hello. world***
+
+~~Helloi, world~~
+
+
+
+## 引用
+
+> 狂神说   
+
+## 分割线
+
+
+
+## 图片
+
+![截图](/home/yosunpeng/Pictures/Screenshot from 2020-09-19 09-41-35.png)
+
+![截图](/home/yosunpeng/Pictures/Screenshot from 2020-09-19 09-41-35.png)
+
+
+
+[点击跳转到狂神博客](https://pc.qq.com/detail/4/detail_24424.html)
+
+
+
+## 列表
+
+1. A
+2. N
+
+
+
+- A
+- F
+- B
+
+
+
+## 表格
+
+
+
+| 名字 | 性别 | 生日     |
+| ---- | ---- | -------- |
+| 张三 | 男   | 1992.3.2 |
+
+
+
+## 代码
+
+```java
+public static void main()
+```
+
+`java
+`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
